@@ -120,13 +120,6 @@ Using the **GRID Corpus dataset**, the project demonstrates improvements in **Co
   [GitHub](https://github.com/Sachin-Shivanna)
 ---
 
-
-## License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
----
-
 ## References
 
 1. Assael, Y., Shillingford, B., Whiteson, S., & de Freitas, N. (2016). **LipNet: End-to-End Sentence-Level Lipreading**.  
